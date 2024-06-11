@@ -905,8 +905,7 @@ font-size: 15px;
   padding: 10px;
 }
 
-.message {
-}
+
 
 #status {
   background-color: #c6e4e2;
@@ -980,3 +979,6 @@ font-size: 15px;
 }
 
 
+.act{
+  color: var(--button-color);
+}
